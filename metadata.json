@@ -1,0 +1,6 @@
+{
+  "name": "Control Ganadero Pro",
+  "description": "Sistema completo de gestión de finca, ganado, trazabilidad por QR, historial clínico, asignación de personal, control financiero e inventario.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
